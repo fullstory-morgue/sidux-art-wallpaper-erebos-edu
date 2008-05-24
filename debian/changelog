@@ -1,3 +1,11 @@
+sidux-art-wallpaper-erebos-edu (0.1.0+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * debian sidux-erebos-1280x1024.svg sidux-erebos-1600x1200.svg sidux-
+    erebos-1920x1200.svg injected sidux-art-wallpaper-erebus-edu
+
+ -- Ferdinand Thommes <devil@sidux.com>  Sat, 24 May 2008 08:56:53 +0200
+
 sidux-art-wallpaper-erebos-edu (0.1.0) unstable; urgency=low
 
   * Initial Release.
