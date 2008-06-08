@@ -2,8 +2,9 @@ Source: sidux-art-wallpaper-erebos-edu
 Section: graphics
 Priority: extra
 Maintainer: Dinko Sabo <cobra@sidux.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs, debhelper (>= 7), inkscape
-Standards-Version: 3.7.3
+Standards-Version: 3.8.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-erebos-edu/trunk/
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-erebos-edu/trunk/
 
