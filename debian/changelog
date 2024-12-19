@@ -2,6 +2,7 @@ sidux-art-wallpaper-erebos-edu (0.3) ORPHAN; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
   [ Bernard Gray ]
   * this has been migrated to sidux-art-erebos source pkg
